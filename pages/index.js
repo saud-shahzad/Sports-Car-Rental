@@ -151,7 +151,7 @@ export default function Home() {
         <section>
           <h2>Conclusion</h2>
           <p>
-            Renting a sports car in Dubai provides an unparalleled opportunity to experience the city's luxury and excitement. Whether for business or leisure, a <a rel="nofollow" href="https://carrentaldxb.com/sports/">sports car hire</a> ensures a memorable and thrilling driving experience. Visit <a href="https://carrentaldxb.com/car/sports-cars/" target="_blank">Sports Car Rental in Dubai</a> to book your ride today!
+            Renting a sports car in Dubai provides an unparalleled opportunity to experience the city's luxury and excitement. Whether for business or leisure, a sports car ensures a memorable and thrilling driving experience. Visit <a href="https://carrentaldxb.com/sports/" target="_blank">Sports Car Rental in Dubai</a> to book your ride today!
           </p>
         </section>
       </main>
